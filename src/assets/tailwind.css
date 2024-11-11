@@ -1,0 +1,8 @@
+/* src/assets/tailwind.css */
+
+/* Import các lớp cơ bản của Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bạn cũng có thể thêm custom styles tại đây nếu cần */

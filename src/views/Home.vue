@@ -1,9 +1,9 @@
 <!-- src/views/Home.vue -->
 <template>
-    <div>
+    <!-- <div>
       <h1>Trang Chủ</h1>
       <p>Chào mừng đến trang chủ!</p>
-    </div>
+    </div> -->
   </template>
   
   <script lang="ts">
